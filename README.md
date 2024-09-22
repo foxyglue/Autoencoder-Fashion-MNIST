@@ -13,6 +13,7 @@ From that you can download:
     - Scaling data
     - Splitting data into 80% train, 10% test, 10% validation
 2. Base Model
+   
     ![image-3](https://github.com/user-attachments/assets/5c3701d8-3328-46e4-be25-ce6dfbb1589c)
 3. Modified Model
    - Encoder:
